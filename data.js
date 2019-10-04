@@ -783,7 +783,17 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=q4-gsdLSSQ0",
         genres: ["tin pan alley"],
         year: 1908
-    },{
+    },    
+    {
+        title: "Take Me To Church",
+        artist: ["Hozier"],
+        featuredArtist: [],
+        emojiImgs: "🙋‍♂️➡⛪",
+        musicVideo: "https://www.youtube.com/watch?v=PVjiKRfKpPI",
+        genres: ["blues", "singer-songwriter"],
+        year: 2013
+    },
+    {
         title: "thank u, next",
         artist: ["Ariana Grande"],
         featuredArtist: [],
